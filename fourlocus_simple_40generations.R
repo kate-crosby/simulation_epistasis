@@ -1,4 +1,4 @@
-rm(list=ls())
+
 popsize <- 1000
 totalGen <- 40
 Mesic <- c(1,1,1,1,0,0,0,0)
